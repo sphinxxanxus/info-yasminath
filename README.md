@@ -13,7 +13,7 @@ editor)
 
 ## Example of output of the script
 
-### With one language programing
+### With one programming language
 
 <pre>
     I'm Arthur, an active member of Ceceonat!
@@ -24,7 +24,7 @@ editor)
 	Programming language: Python
 </pre>
 
-### With two language programing
+### With two programming language
 
 <pre>
     I'm Ruth, an active member of Ceceonat!
